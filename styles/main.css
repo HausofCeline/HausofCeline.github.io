@@ -7,3 +7,13 @@ body {
         color: 555
     }
     
+h1, h2, p, li {
+    color: #555;
+}
+a{
+    color: pink;
+}
+p {
+    background: greenyellow;
+    color: whitesmoke;
+}
