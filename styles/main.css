@@ -1,19 +1,30 @@
-body {
-    background:#FF7F50;
-    font-family: 'Advent Pro';
+body 
+{
+    margin: 0;
+    padding: 0;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
 
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+
+    background:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif, fantasy;
 }
     h1 , h2, h3, h4 {
         color: #555
     }
     
-h1, h2, p, li {
+h1, h2, li {
     color: #555;
 }
 a{
     color: pink;
 }
 p {
-    background: greenyellow;
+    background: rgb(198, 231, 147);
     color: whitesmoke;
 }
